@@ -242,7 +242,7 @@ Thus, the program was implemented and executed successfully, and the required ou
  4   2  
  54321
  ```
-# Date : 
+# Date : 28/04/2026
 # Aim:
  To build a C program that prints the required numeric pattern for a given value of n using nested loops.
 # Algorithm:
@@ -341,6 +341,7 @@ int main()
  
  1  2  3  4  5  6  7  0  7  6  5  4  3  2  1
 
+# Date : 28/04/2026
 # Aim: 
   To formulate a C program to print a symmetric numeric pattern in which each row contains an increasing sequence of numbers from the row value up to 7, followed by 0 in the center, and then a decreasing sequence of numbers back to the row value.
 # Algorithm:
